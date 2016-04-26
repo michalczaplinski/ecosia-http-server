@@ -1,0 +1,16 @@
+{
+  "name": "ecosia-http-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "author": "mmczaplinski@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "supertest": "^1.2.0"
+  }
+}
